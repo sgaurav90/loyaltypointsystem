@@ -1,4 +1,4 @@
-# Loyalty Program
+# Blockchain-based Loyalty Program System
 
 ## Business Problem
 Consumer loyalty programs represent strategic investments and are applicable to all
